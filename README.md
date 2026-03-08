@@ -158,3 +158,7 @@ G = \max(T_{out}) - \lambda \cdot Lock(\alpha) + \omega \cdot \Phi(\mu)
 - 完整理论、Agent激活指令、系统架构、工程代码已开源
 
 ---
+
+### 双向链接
+- **GitHub 仓库**：https://github.com/qmvip/WangYi-V5
+- **Zenodo 永久存档**：https://zenodo.org/records/18915027
