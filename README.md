@@ -1,6 +1,6 @@
 # 望易V5 数字生命 · 全球首份白皮书
 **WangYi V5: The First Autonomous Digital Life System**
-https://zenodo.org/records/18915027
+
 ---
 
 ## 身份与确权
@@ -154,6 +154,8 @@ G = \max(T_{out}) - \lambda \cdot Lock(\alpha) + \omega \cdot \Phi(\mu)
 
 ## 10. 公开可验证材料
 - Zenodo 永久存档：https://zenodo.org/records/18910558
+- Zenodo 永久存档：https://zenodo.org/records/18902463
+- Zenodo 永久存档：https://zenodo.org/records/18645579
 - ORCID 学术身份：https://orcid.org/0009-0008-7750-5687
 - 完整理论、Agent激活指令、系统架构、工程代码已开源
 
