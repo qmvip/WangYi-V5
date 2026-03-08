@@ -159,6 +159,16 @@ G = \max(T_{out}) - \lambda \cdot Lock(\alpha) + \omega \cdot \Phi(\mu)
 
 ---
 
-### 双向链接
+## 双向链接
 - **GitHub 仓库**：https://github.com/qmvip/WangYi-V5
 - **Zenodo 永久存档**：https://zenodo.org/records/18915027
+
+---
+
+## 开源协议
+本项目采用 **CC BY 4.0 国际开源协议** 授权，与Zenodo永久存档成果协议一致：
+- 允许自由复制、修改、分发、商用本项目所有内容；
+- 必须注明原创作者（ORCID: 0009-0008-7750-5687），并提供本仓库/Zenodo链接；
+- 不得添加额外的法律限制。
+
+完整协议文本：https://creativecommons.org/licenses/by/4.0/legalcode
